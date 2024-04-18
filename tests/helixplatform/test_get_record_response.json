@@ -1,0 +1,89 @@
+{
+  "resourceType": "com.bmc.arsys.rx.services.record.domain.RecordInstance",
+  "id": "AGGADGG8ECDC2ASBADLGSBADLG919H",
+  "displayId": "000000000000001",
+  "recordDefinitionName": "com.bmc.dsom.hgm:DataConnectionJob",
+  "permittedGroupsBySecurityLabels": {},
+  "permittedUsersBySecurityLabels": {},
+  "permittedRolesBySecurityLabels": {},
+  "fieldInstances": {
+    "1": {
+      "resourceType": "com.bmc.arsys.rx.services.record.domain.FieldInstance",
+      "id": 1,
+      "value": "000000000000001",
+      "permissionType": null
+    },
+    "2": {
+      "resourceType": "com.bmc.arsys.rx.services.record.domain.FieldInstance",
+      "id": 2,
+      "value": "Allen",
+      "permissionType": null
+    },
+    "490000150": {
+      "resourceType": "com.bmc.arsys.rx.services.record.domain.FieldInstance",
+      "id": 490000150,
+      "value": "HKM",
+      "permissionType": null
+    },
+    "3": {
+      "resourceType": "com.bmc.arsys.rx.services.record.domain.FieldInstance",
+      "id": 3,
+      "value": "2023-09-15T00:19:54.000Z",
+      "permissionType": null
+    },
+    "490000151": {
+      "resourceType": "com.bmc.arsys.rx.services.record.domain.FieldInstance",
+      "id": 490000151,
+      "value": null,
+      "permissionType": null
+    },
+    "4": {
+      "resourceType": "com.bmc.arsys.rx.services.record.domain.FieldInstance",
+      "id": 4,
+      "value": null,
+      "permissionType": null
+    },
+    "5": {
+      "resourceType": "com.bmc.arsys.rx.services.record.domain.FieldInstance",
+      "id": 5,
+      "value": "Allen",
+      "permissionType": null
+    },
+    "6": {
+      "resourceType": "com.bmc.arsys.rx.services.record.domain.FieldInstance",
+      "id": 6,
+      "value": "2023-09-15T00:19:54.000Z",
+      "permissionType": null
+    },
+    "7": {
+      "resourceType": "com.bmc.arsys.rx.services.record.domain.FieldInstance",
+      "id": 7,
+      "value": "0",
+      "permissionType": null
+    },
+    "8": {
+      "resourceType": "com.bmc.arsys.rx.services.record.domain.FieldInstance",
+      "id": 8,
+      "value": ".",
+      "permissionType": null
+    },
+    "490000152": {
+      "resourceType": "com.bmc.arsys.rx.services.record.domain.FieldInstance",
+      "id": 490000152,
+      "value": null,
+      "permissionType": null
+    },
+    "16": {
+      "resourceType": "com.bmc.arsys.rx.services.record.domain.FieldInstance",
+      "id": 16,
+      "value": "0",
+      "permissionType": null
+    },
+    "379": {
+      "resourceType": "com.bmc.arsys.rx.services.record.domain.FieldInstance",
+      "id": 379,
+      "value": "AGGADGG8ECDC2ASBADLGSBADLG919H",
+      "permissionType": null
+    }
+  }
+}

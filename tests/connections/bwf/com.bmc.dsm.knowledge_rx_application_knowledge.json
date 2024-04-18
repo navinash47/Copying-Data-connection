@@ -1,0 +1,32 @@
+{
+    "displayId": "000000000000005|000000000000005",
+    "createDate": "2020-01-19T13:21:51.000Z",
+    "modifiedDate": "2022-01-03T08:51:51.000Z",
+    "status": "0",
+    "description": "com.bmc.rkm.knowledge:Content",
+    "locale": "en",
+    "uuid": "AGGADG1AAP0ICAOQVYJ6OPZVOTL7BU",
+    "guid": "AGGADG1AAP0ICAOQVYJ6OPZVOTL7BU",
+    "productCategory": null,
+    "operationCategory": "Total Rewards",
+    "knowledgeSet": "Policy",
+    "contentId": "KA-000000000005",
+    "title": "EMEA Car Allowance Policy",
+    "version": 1,
+    "articleStatus": "5000",
+    "applicationName": null,
+    "helpfulCounter": 309,
+    "viewCounter": 339,
+    "notHelpfulCounter": 20,
+    "rating": 0.0,
+    "templateId": "AGGAA5V0HGVMIAOK04TZO94MC355RA",
+    "templateName": "HowTo",
+    "content": [
+        {
+            "label": "Reference",
+            "content": "This is the content."
+        }
+    ],
+    "usefulCounterPercent": null,
+    "external": true
+}
